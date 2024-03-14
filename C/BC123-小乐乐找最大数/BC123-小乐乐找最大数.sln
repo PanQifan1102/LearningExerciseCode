@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BC123-小乐乐找最大数", "BC123-小乐乐找最大数\BC123-小乐乐找最大数.vcxproj", "{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Debug|x64.ActiveCfg = Debug|x64
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Debug|x64.Build.0 = Debug|x64
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Debug|x86.Build.0 = Debug|Win32
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Release|x64.ActiveCfg = Release|x64
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Release|x64.Build.0 = Release|x64
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Release|x86.ActiveCfg = Release|Win32
+		{CA3759B5-9A79-4D54-9A58-F90B7289A2EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {559CBB77-D970-4824-9464-CCCF0B10F06E}
+	EndGlobalSection
+EndGlobal

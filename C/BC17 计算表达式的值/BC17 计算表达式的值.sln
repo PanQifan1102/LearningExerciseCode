@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BC17 计算表达式的值", "BC17 计算表达式的值\BC17 计算表达式的值.vcxproj", "{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Debug|x64.ActiveCfg = Debug|x64
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Debug|x64.Build.0 = Debug|x64
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Debug|x86.ActiveCfg = Debug|Win32
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Debug|x86.Build.0 = Debug|Win32
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Release|x64.ActiveCfg = Release|x64
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Release|x64.Build.0 = Release|x64
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Release|x86.ActiveCfg = Release|Win32
+		{E31ACAC1-BBB1-4993-A865-ADA441EBCFC3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9519A33F-BC52-46C2-B8FB-33629B4309AA}
+	EndGlobalSection
+EndGlobal
